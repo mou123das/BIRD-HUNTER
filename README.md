@@ -9,10 +9,11 @@ Pygame uses the Simple DirectMedia Layer (SDL) library, with the intention of al
 <br>
 # How to install Pygame?
 You can install the Pygame module by the following ways:
-Open the command line.
-Write "py -m pip install -U pygame --user" (without quotes).
+- Open the command line.
+- Write "py -m pip install -U pygame --user" (without quotes).
 <br>
+
 # About the game
-This game is pretty straight forward. Imagine you are a ninja and you will have to kill the birds to earn points. If any of the birds crosses the violet line, the game will end.
+This game is pretty straight forward.<br>Imagine you are a ninja and you will have to kill the birds to earn points.<br>If any of the birds crosses the violet line, the game will end.<br>
 The game is menu based, to the guide the user through the program.
 
