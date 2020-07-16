@@ -1,5 +1,5 @@
 # BIRD-HUNTER
-A user friendly game made using PYGAME module in python
+An user friendly game made using PYGAME module in python
 <br>
 
 # What is Pygame?
