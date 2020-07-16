@@ -6,3 +6,9 @@ Pygame is a cross-platform set of Python modules designed for writing video game
 <br>
 Pygame uses the Simple DirectMedia Layer (SDL) library, with the intention of allowing real-time computer game development without the low-level mechanics of the C programming language and its derivatives. This is based on the assumption that the most expensive functions inside games can be abstracted from the game logic, making it possible to use a high-level programming language, such as Python, to structure the game.<br><br>
 **Source**: Wikipedia
+<br>
+# How to install Pygame?
+You can install the Pygame module by the following ways:
+* Open the command line.
+* Write "py -m pip install -U pygame --user" (without quotes).
+
