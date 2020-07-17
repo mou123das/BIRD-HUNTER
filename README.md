@@ -18,3 +18,6 @@ You can install the Pygame module by the following ways:
 # About the game
 This game is pretty straight forward. Imagine you are a ninja and you will have to kill the birds to earn points. If you are able to kill all the 8 birds, you win the game else if any of the birds crosses the violet line, the game will end.<br>
 The game is menu based, to the guide the user through the program.
+
+# Visual display of the game
+![](video.gif)
